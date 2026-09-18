@@ -1,3 +1,7 @@
-setup_env.py
 3000-env
+<<<<<<< HEAD
 .DS_Store.venv
+=======
+.DS_Store
+__pycache__
+>>>>>>> 61c7596b161f890b7067c9feac79cd461de08eac
